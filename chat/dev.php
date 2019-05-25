@@ -10,10 +10,10 @@
 <html>
 <body>
 <!-- hehehehe-->
-<h2>Hey seu site foi hackeado, mas nao fique Triste, vamos adorar o sol </h2>
+<h2>Hey seu site foi hackeado, mas nao fique Triste, vamos ver anime </h2>
 
 
-<img src="https://gifimage.net/wp-content/uploads/2017/06/praise-the-sun-gif.gif" width="320" height="320" alt="Praise">
+<img src="imagens/kono.gif" width="620" height="320" alt="Praise">
 
 <h1> Eu to Pobreeee </h1>
 
@@ -26,8 +26,11 @@
 	var audio = new Audio('tranquilo.mp3');
 	audio.play()
 </script>
-
-
+<style>
+body{
+	background-color: #d24dff;
+}
+</style>
 <b> Seu site foi ownado pelo 3X0D14 , obrigado pela atencao! </b>
 
 <!-- hehehehe-->
